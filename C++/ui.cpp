@@ -1,11 +1,4 @@
 #include "ui.hpp"
-#include "docManager.hpp"
-
-#include <iostream>
-#include <string>
-#include <limits>
-#include <filesystem>
-
 
 void UI::run()
 {
