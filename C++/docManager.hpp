@@ -2,6 +2,10 @@
 #define DOCUMENTMANAGER_HPP
 
 #include <string>
+#include <fstream>
+#include <iostream>
+#include <filesystem> //C++17 and above
+#include <stdexcept>
 
 class DocumentManager 
 {
