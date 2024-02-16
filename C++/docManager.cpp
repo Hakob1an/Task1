@@ -1,11 +1,5 @@
 #include "docManager.hpp"
 
-#include <fstream>
-#include <iostream>
-#include <filesystem> //C++17 and above
-#include <stdexcept>
-
-
 void DocumentManager::create(const std::string& fileName) 
 {
     //Creating a new document
