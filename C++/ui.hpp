@@ -1,6 +1,12 @@
 #ifndef UI_HPP
 #define UI_HPP
 
+#include "docManager.hpp"
+#include <iostream>
+#include <string>
+#include <limits>
+#include <filesystem>
+
 class UI
 {
 public:
